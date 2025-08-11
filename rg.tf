@@ -3,5 +3,4 @@ resource "azurerm_resource_group" "rg" {
 	location = "east-us"
 
   tags = {
-    name = "rg"
 }
